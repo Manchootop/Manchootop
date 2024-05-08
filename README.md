@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariyan</h1>
-<h3 align="center">A passionate python backend developer from Bulgaria</h3>
+<h3 align="center">Hi there! 👋 I'm Mariyan, a passionate Python backend developer based in Bulgaria. I have a deep love for building robust and efficient web applications using Python and related technologies. Im into Blockchain, AI, OCR, Web Scraping and more...</h3>
 
 - 🔭 I’m currently working on [FastApi_notes_app](https://github.com/Manchootop/Fast-api-demo)
 
