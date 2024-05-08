@@ -1,34 +1,22 @@
-Sure, here's a README template for your GitHub profile:
-Mariyan Georgiev
+<h1 align="center">Hi 👋, I'm Mariyan</h1>
+<h3 align="center">A passionate python backend developer from Bulgaria</h3>
 
-Hello there! 👋 I'm Mariyan Georgiev, a passionate backend Python developer with a keen interest in building scalable and efficient web applications. I studied at SoftUni, where I honed my skills and gained valuable experience in software development.
-About Me
+- 🔭 I’m currently working on [FastApi_notes_app](https://github.com/Manchootop/Fast-api-demo)
 
-    🔭 I’m currently working on enhancing my proficiency in Python and backend development.
-    🌱 I’m continuously learning and exploring new technologies to stay updated with the latest trends in the industry.
-    💼 I have experience working with various frameworks and tools such as Django, Flask, SQLAlchemy, and more.
-    📫 You can reach me at your-email@example.com.
-    🌐 Connect with me on LinkedIn.
+- 🌱 I’m currently learning **FastApi, Scrapy, Pytesseract,**
 
-Projects
+- 💬 Ask me about **Python, Django, PostgreSQL**
 
-Here are a few notable projects I've worked on:
+- 📫 How to reach me **mariqn5000@gmail.com**
 
-    Project Name: Brief description of the project. GitHub Repo
-    Project Name: Brief description of the project. GitHub Repo
-    Project Name: Brief description of the project. GitHub Repo
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/мариян георгиев" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="мариян георгиев" height="30" width="40" /></a>
+</p>
 
-Skills
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-    Python
-    Django
-    Flask
-    SQLAlchemy
-    RESTful APIs
-    SQL
-    Git
-    Linux
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manchootop&show_icons=true&locale=en&layout=compact" alt="manchootop" /></p>
 
-How to Reach Me
-
-Feel free to reach out to me via email at your-email@example.com or connect with me on LinkedIn. I'm open to collaboration and discussing exciting opportunities!
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manchootop&show_icons=true&locale=en" alt="manchootop" /></p>
