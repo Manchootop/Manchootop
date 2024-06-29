@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [FastApi_notes_app](https://github.com/Manchootop/Fast-api-demo), Sb ocr
 
-- 🌱 I’m currently learning **FastApi, Scrapy, Pytesseract,**
+- 🌱 I’m currently learning **FastApi, React, OCR models, Pytesseract,**
 
-- 💬 Ask me about **Python, Django, PostgreSQL**
+- 💬 Ask me about **Python, JS, Django, PostgreSQL, React, html/css**
 
 - 📫 How to reach me **mariqn5000@gmail.com**
 
