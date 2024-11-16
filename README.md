@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mariyan</h1>
 <h3 align="center">Hi there! 👋 I'm Mariyan, a passionate Python backend developer based in Bulgaria. Im into Blockchain, AI, OCR, Web Scraping and more...</h3>
 
-- 🔭 I’m currently working on [FastApi_notes_app](https://github.com/Manchootop/Fast-api-demo), Sb ocr
+- 🔭 I’m currently working on [Med Konsult GUI](https://github.com/Manchootop/Med-Konsult-GUI), Sb ocr
 
-- 🌱 I’m currently learning **FastApi, React, OCR models, Pytesseract,**
+- 🌱 I’m currently learning **FastApi, React, OCR models, Pytesseract, Kivy**
 
 - 💬 Ask me about **Python, JS, Django, PostgreSQL, React, html/css**
 
