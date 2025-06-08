@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariyan</h1>
-<h3 align="center">Hi there! 👋 I'm Mariyan, a passionate Python backend developer based in Bulgaria. Im into Blockchain, AI, OCR, Web Scraping and more...</h3>
+<h3 align="center">Hi there! 👋 I'm Mariyan, a passionate Python backend developer based in Bulgaria. Im into Generative AI, ML and DL.</h3>
 
 - 🔭 I’m currently working on [Med Konsult GUI](https://github.com/Manchootop/Med-Konsult-GUI), SalesConnect Diana-ltd, [Smol Course](https://github.com/Manchootop/Smol-course)
 
