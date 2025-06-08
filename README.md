@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mariyan</h1>
 <h3 align="center">Hi there! 👋 I'm Mariyan, a passionate Python backend developer based in Bulgaria. Im into Blockchain, AI, OCR, Web Scraping and more...</h3>
 
-- 🔭 I’m currently working on [Med Konsult GUI](https://github.com/Manchootop/Med-Konsult-GUI), Sb ocr
+- 🔭 I’m currently working on [Med Konsult GUI](https://github.com/Manchootop/Med-Konsult-GUI), SalesConnect Diana-ltd, [Smol Course](https://github.com/Manchootop/Smol-course)
 
-- 🌱 I’m currently learning **FastApi, React, OCR models, Pytesseract, Kivy**
+- 🌱 I’m currently learning **FastApi, Pytorch, Transformers, Agents, LLM, RAG**
 
-- 💬 Ask me about **Python, JS, Django, PostgreSQL, React, html/css**
+- 💬 Ask me about **Python, JS, Django, PostgreSQL, React, html/css, FastApi, OCR, **
 
-- 📫 How to reach me **mariqn5000@gmail.com**
+- 📫 How to reach me **mariqn5000@gmail.com** and [LinkedIn](https://www.linkedin.com/in/mariyan-georgiev-037069256/)
 
 
 
